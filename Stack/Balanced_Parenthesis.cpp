@@ -28,3 +28,7 @@ int main()
     else
     cout<<"False"<<endl;
 }
+
+//Time Complexity:O(n)
+//Space Complexity:O(n) 
+//n is the length of the String
